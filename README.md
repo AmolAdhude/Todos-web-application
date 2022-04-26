@@ -17,6 +17,14 @@ This project link todos to particular users, so that only that user can edit or 
 - Save Todos
 - Delete Todos
 - Mark Todos on completion
+  
+# Languges and Tools
+
+- HTML5
+- CSS
+- Bootstrap
+- VsCode
+- Javascript
 
   
  # Credits
